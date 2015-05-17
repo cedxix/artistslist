@@ -1,2 +1,7 @@
-# artistslist
-AngularJs and Ionic Framework multi platform apps.
+# Artist Conf
+
+A multiplatform mobile app.
+
+## frameworks 
+Ionic / AngularJs / Cordova
+
